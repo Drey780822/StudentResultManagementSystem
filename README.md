@@ -163,12 +163,6 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here — login page, dashboards, result view, etc.)*
-
----
-
 ## 👨‍💻 Author
 
 **Thabang Dikotope**
